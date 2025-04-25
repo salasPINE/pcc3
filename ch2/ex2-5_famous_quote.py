@@ -1,0 +1,1 @@
+print('Anonymous once said, "If God wanted us to drink Skim Milk, he would have created Skim Cows."')
